@@ -22,15 +22,6 @@ $Item4 = Get-Random -InputObject $PostShave
 
 $Yes = "y", "Y", "Yes", "YES"
 Write-Host " "
-Write-Host " "
-Write-Host "                                                                                  "
-Write-Host "   SSSSSSSSSSSSSSS      OOOOOOOOO     TTTTTTTTTTTTTTTTTTTTTTTDDDDDDDDDDDDD        "
-Write-Host " SS:::::::::::::::S   OO:::::::::OO   T:::::::::::::::::::::TD::::::::::::DDD     "
-Write-Host "S:::::SSSSSS::::::S OO:::::::::::::OO T:::::::::::::::::::::TD:::::::::::::::DD   "
-Write-Host "S:::::S     SSSSSSSO:::::::OOO:::::::OT:::::TT:::::::TT:::::TDDD:::::DDDDD:::::D  "
-Write-Host "S:::::S            O::::::O   O::::::OTTTTTT  T:::::T  TTTTTT  D:::::D    D:::::D "
-Write-Host "S:::::S            O:::::O     O:::::O        T:::::T          D:::::D     D:::::D"
-Write-Host " S::::SSSS         O:::::O     O:::::O        T:::::T          D:::::D     D:::::D"
 Write-Host "                                                                                  "                             
 $Confirm = Read-Host "SOTD - $Date `n               ARE YOU READY FOR AN EPIC SHAVE? $Name`? (Y/N)"
 
